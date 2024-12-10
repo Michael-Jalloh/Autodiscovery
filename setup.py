@@ -9,7 +9,7 @@ with open(path.join(this_directory, 'README.md')) as f:
 setup(
     name="autodiscovery",
     packages=["autodiscovery"],
-    version="0.0.1",
+    version="0.0.2",
     license="MIT",
     description="autodiscovery is a Python library that simplifies the discovery of Python applications on a network, allowing seamless connection and interaction between services with minimal configuration.",
     long_description=long_description,
